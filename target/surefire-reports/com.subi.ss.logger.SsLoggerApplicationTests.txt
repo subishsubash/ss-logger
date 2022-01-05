@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.subi.ss.logger.SsLoggerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.632 s - in com.subi.ss.logger.SsLoggerApplicationTests

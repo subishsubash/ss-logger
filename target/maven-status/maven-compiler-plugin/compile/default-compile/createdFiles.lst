@@ -1,0 +1,4 @@
+com\subi\ss\logger\SsLoggerApplication.class
+com\subi\ss\logger\controller\VersionController.class
+com\subi\ss\logger\CORSConfigurations$1.class
+com\subi\ss\logger\CORSConfigurations.class
