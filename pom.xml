@@ -15,7 +15,7 @@
 	<name>ss-logger</name>
 	<description>logger service for the application</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>16</java.version>
 	</properties>
 	<dependencies>
 		<dependency>

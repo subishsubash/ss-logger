@@ -11,7 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="ss-logger" target="17" />
+      <module name="ss-logger" target="16" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
